@@ -14,6 +14,7 @@ app = FastAPI()
 origins = [
     "http://localhost:8080",
     "http://127.0.0.1:8000",
+    "https://fron-token.onrender.com",
     #"https://contactos-frontend-6d58a4eb9f51.herokuapp.com",
     #"https://contactos-backen-b4d88f351253.herokuapp.com"
 ]
